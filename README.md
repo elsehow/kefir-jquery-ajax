@@ -1,3 +1,7 @@
+# kefir-jquery-ajax
+
+make a $.ajax request, get a kefir property back!
+
 ## installation
 
 `npm install kefir-jquery-ajax`
