@@ -1,0 +1,29 @@
+{
+  "name": "kefir-jquery-ajax",
+  "version": "1.0.1",
+  "description": "make a $.ajax request, get a kefir stream back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elsehow/kefir-jquery-ajax.git"
+  },
+  "keywords": [
+    "kefir",
+    "frp",
+    "ajax",
+    "jquery"
+  ],
+  "author": "elsehow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elsehow/kefir-jquery-ajax/issues"
+  },
+  "homepage": "https://github.com/elsehow/kefir-jquery-ajax#readme",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "kefir": "^3.1.0"
+  }
+}
