@@ -11,7 +11,7 @@ var ajax = function (options) {
     return function() {
       promise.abort();
     }
-  }).take(1).endOnError().toProperty();
+  }).take(1).takeErrors(1)
 }
 
 module.exports = ajax
